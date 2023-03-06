@@ -1,2 +1,2 @@
 import os
-print("Cześć studenci!")
+print("Cześć studenci! Witamy Was bardzo serdecznie!")
